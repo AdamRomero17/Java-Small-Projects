@@ -11,9 +11,12 @@ package com.practicecode.javaprojects;
 public class JavaProjects {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-        System.out.println("HEllo Adam");
-        
-        int number1 = 3;
+       int star1 = 5;
+       for(int i = 0; i < star1; i++){
+           for(int j = 1; j <= i; j++){
+              System.out.println(j);
+           }
+       };
+       
     }
 }
