@@ -8,7 +8,7 @@ package com.practicecode.javaprojects;
  *
  * @author Intel
  */
-public class JavaProjects {
+public class ForLoop {
 
     public static void main(String[] args) {
         //RIGHT TRIANGLE
