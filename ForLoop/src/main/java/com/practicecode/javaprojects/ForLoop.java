@@ -20,7 +20,7 @@ public class ForLoop {
            System.out.println("");
        }*/
        
-       //EQUILATERAL
+       //EQUILATERAL Tringle
        int star = 5;
        for(int i = 1; i <= star; i++){
            for(int j = i; j < star; j++){
